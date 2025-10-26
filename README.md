@@ -154,14 +154,6 @@ const char* environment[] = {"Neovim", "Tmux", "Ghostly", "Niri/Hyprland"};
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/somethingSEC/somethingSEC/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/somethingSEC/somethingSEC/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/somethingSEC/somethingSEC/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 <h2>🎯 Current Focus</h2>
