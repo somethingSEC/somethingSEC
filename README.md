@@ -86,7 +86,7 @@ const char* environment[] = {"Neovim", "Tmux", "Alacritty", "i3wm"};
   <td width="50%">
     <h3 align="center">Project Name 1</h3>
     <p align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT1" target="_blank">
+      <a href="https://github.com/somethingSEC/AsnScan" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
       </a>
     </p>
